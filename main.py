@@ -1,7 +1,7 @@
 #coding=utf-8
 '''
 教程：
-先安装无违规包,在终端执行：pip install --index-url https://test.pypi.org/simple/ --no-deps wwg
+先安装无违规包,在终端执行：pip install wwg
 安装发送请求包，在终端执行：pip install requests
 '''
 from wwg.setting import *
